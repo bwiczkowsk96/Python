@@ -1,6 +1,6 @@
 isAutomaticMode = True
-is80PercentLight = True
-isDirectLight = False
+is80PercentLight = False
+isDirectLight = True
 isRainy = False
 
 turnLightsOn = isAutomaticMode and ( not is80PercentLight or isDirectLight or isRainy)

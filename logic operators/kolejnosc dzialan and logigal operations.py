@@ -8,3 +8,9 @@ print('birth date is:',number %100)
 liczba=15
 numer = (liczba*2+10)/2-liczba
 print(numer)
+
+
+a=2
+print(a+a*a)
+b=7
+print(b+b/b+b*b-b)

@@ -3,9 +3,9 @@ print(helloMessage % ('Kate'))
 print(helloMessage % ('Chris'))
 
 
-helloMessage3 = 'Hello {0:s}!'
+helloMessage3 = 'Hello {1:s}!'
 
-print(helloMessage3.format('Kate'))
+print(helloMessage3.format('Kate','John'))
 
 
 helloMessage='Hello {0:s}!'

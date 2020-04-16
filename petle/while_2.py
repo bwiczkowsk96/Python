@@ -44,11 +44,11 @@ while i < max:
 
  
  
- number=1
- previousNumber=0
+number=1
+previousNumber=0
 
- while number <=50:
-     print(number, number+previousNumber)
-     previousNumber = number
-     number+=1
+while number <=50:
+    print(number, number+previousNumber)
+    previousNumber = number
+    number+=1
 
